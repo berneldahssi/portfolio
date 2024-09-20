@@ -10,6 +10,6 @@ Welcome to my portfolio! I’m Gériol Bernel Tchinda Dahssi, a DevOps Engineer 
 ## Contact
 For inquiries or collaboration, reach me at:
 - **Email**: berneldahssi@gmail.com
-- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/berneldahssi)
+- **LinkedIn**: [@berneldahssi](https://linkedin.com/in/berneldahssi)
 
 Thank you for visiting my portfolio!
