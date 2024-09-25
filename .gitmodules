@@ -1,3 +1,0 @@
-[submodule "flask"]
-	path = flask
-	url = https://github.com/app-generator/flask-pixel.git
